@@ -1,4 +1,6 @@
-# QualTipoMime
-Programa para mostrar o tipo mime de um arquivo.
-
-valeu  
+# QualTipoMime  
+  
+Programa para exibir o tipo mime de um arquivo.  
+  
+obrigado  
+  
